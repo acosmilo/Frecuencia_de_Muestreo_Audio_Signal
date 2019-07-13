@@ -13,7 +13,7 @@ Trabajo correspondiente a la materia Señales y Sistemas. Hecho en MATLAB.
 ## Comenzando 🚀
 
 
-Mira **Frecuencia_de_Muestreo_Señal_de_Audio.pdf** para conocer como desplegar el proyecto.
+Mira **[Frecuencia_de_Muestreo_Señal_de_Audio.pdf](https://github.com/acosmilo/Frecuencia_de_Muestreo_Audio_Signal/raw/master/Frecuencia_de_Muestreo_Sen%CC%83al_de_Audio.pdf)** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
